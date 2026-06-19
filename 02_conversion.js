@@ -2,6 +2,13 @@
 // console.log(score)
 // console.log(typeof score)
 
+
+// NOTE:In JavaScript, the typeof operator evaluates an operand and always returns a string indicating its data type
+
+
+
+
+
 //====================if string converted to number================
 
 
