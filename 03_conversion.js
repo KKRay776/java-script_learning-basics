@@ -37,7 +37,7 @@
 
 
 
-//NOTE: NaN is a special numeric value that represents an invalid or failed number conversion, which is why its data type remains 'number'.
+//NOTE: NaN(not a number) is a special numeric value that represents an invalid or failed number conversion, which is why its data type remains 'number'.
 
 
 
