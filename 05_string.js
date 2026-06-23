@@ -1,4 +1,5 @@
 /* const name="krishan kant" // its is a primitive string 
+console.log(`Hello ${name}`) // Output: Hello krishan kant (using backtic string method and ${} to insert variable in string)
 
 
 string constructor: The String constructor is a built-in function in JavaScript that allows you to create string objects. When you use the String constructor, it creates an object that wraps around a primitive string value. This object has properties and methods for working with strings, such as length, toUpperCase(), toLowerCase(), includes(), indexOf(), slice(), split(), replace(), and many more.
